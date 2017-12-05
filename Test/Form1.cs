@@ -20,6 +20,7 @@ namespace Test
         private void btStart_Click(object sender, EventArgs e)
         {
             lbText.Text = "Hello World";
+            MessageBox.Show("sfds");
         }
     }
 }
