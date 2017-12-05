@@ -1,0 +1,9 @@
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\bin\Debug\Test.exe.config
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\bin\Debug\Test.exe
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\bin\Debug\Test.pdb
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\obj\Debug\Test.Form1.resources
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\obj\Debug\Test.exe
+C:\Users\Mistyczny\Documents\GitHub\RepositoryTest\Test\obj\Debug\Test.pdb
