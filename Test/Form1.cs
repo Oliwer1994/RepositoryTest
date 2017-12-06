@@ -22,5 +22,10 @@ namespace Test
             lbText.Text = "Hello World";
             MessageBox.Show("sfds");
         }
+
+        private void bt_test_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
