@@ -17,13 +17,15 @@ namespace Test
             InitializeComponent();
         }
 
-        private void btStart_Click(object sender, EventArgs e)
+        private void BtStart_Click(object sender, EventArgs e)
         {
             lbText.Text = "Hello World";
-            MessageBox.Show("sfds");
+            MessageBox.Show("1");
+            KlasaB b = new KlasaB();
+            MessageBox.Show("3");
         }
 
-        private void bt_test_Click(object sender, EventArgs e)
+        private void Bt_test_Click(object sender, EventArgs e)
         {
             KlasaB b = new KlasaB();
         }

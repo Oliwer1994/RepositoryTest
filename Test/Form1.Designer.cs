@@ -42,7 +42,7 @@
             this.btStart.TabIndex = 0;
             this.btStart.Text = "Pokaż tekst";
             this.btStart.UseVisualStyleBackColor = true;
-            this.btStart.Click += new System.EventHandler(this.btStart_Click);
+            this.btStart.Click += new System.EventHandler(this.BtStart_Click);
             // 
             // lbText
             // 
@@ -61,7 +61,7 @@
             this.bt_test.TabIndex = 2;
             this.bt_test.Text = "Koniec swiata";
             this.bt_test.UseVisualStyleBackColor = true;
-            this.bt_test.Click += new System.EventHandler(this.bt_test_Click);
+            this.bt_test.Click += new System.EventHandler(this.Bt_test_Click);
             // 
             // Form1
             // 
