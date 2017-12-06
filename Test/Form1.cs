@@ -21,6 +21,8 @@ namespace Test
         {
             lbText.Text = "Hello World";
             MessageBox.Show("sfds");
+            //Dodany nowy obiekt
+            A nowaKlasaA = new A();
         }
 
         private void bt_test_Click(object sender, EventArgs e)
