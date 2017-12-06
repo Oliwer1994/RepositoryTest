@@ -25,7 +25,7 @@ namespace Test
 
         private void bt_test_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            KlasaB b = new KlasaB();
         }
     }
 }
